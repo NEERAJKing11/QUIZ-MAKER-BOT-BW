@@ -1,7 +1,7 @@
 import telebot
 
 # 1. अपना टेलीग्राम बॉट टोकन यहाँ डालें
-API_TOKEN = '7965361903:AAExpjboakayOxURWG47AnspkeptzqBFDo0'
+API_TOKEN = '8442551616:AAFc3SHbjpCvfbTu-Ss-Rx4lTgKt2J8Paqw'
 
 # 2. अपना MongoDB URL यहाँ डालें
 # यह कुछ ऐसा दिखता है: "mongodb+srv://user:password@cluster..."
